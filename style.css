@@ -1,5 +1,4 @@
-/* Stilizācija kartes konteinerim */
 #map {
-    height: 100vh; /* Pilns augstums */
+    height: 100vh;
     margin: 0;
 }
